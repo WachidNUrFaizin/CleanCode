@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ad4e1f-6fad-4a77-a757-69ccfdcb0fd4" name="Changes" comment="srp">
-      <change afterPath="$PROJECT_DIR$/liskov/liskov.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liskov/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liskov/src/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liskov/src/TransportationDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/ocp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ooprinciples/SalesOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ooprinciples/SalesOrder.class" afterDir="false" />
-    </list>
+    <list default="true" id="70ad4e1f-6fad-4a77-a757-69ccfdcb0fd4" name="Changes" comment="Liskov" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -51,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SalesOrder.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -119,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727330918564</updated>
       <workItem from="1727330919602" duration="1342000" />
-      <workItem from="1727332344510" duration="6771000" />
+      <workItem from="1727332344510" duration="7107000" />
     </task>
     <task id="LOCAL-00001" summary="srp">
       <option name="closed" value="true" />
@@ -137,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727335976984</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Liskov">
+      <option name="closed" value="true" />
+      <created>1727340030502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727340030502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="srp" />
-    <option name="LAST_COMMIT_MESSAGE" value="srp" />
+    <MESSAGE value="Liskov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Liskov" />
   </component>
 </project>
