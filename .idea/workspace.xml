@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70ad4e1f-6fad-4a77-a757-69ccfdcb0fd4" name="Changes" comment="srp">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liskov/liskov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liskov/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liskov/src/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liskov/src/TransportationDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp/ocp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ooprinciples/SalesOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ooprinciples/SalesOrder.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +29,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "WachidNUrFaizin"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/WachidNUrFaizin/CleanCode.git",
@@ -41,6 +54,7 @@
     "Application.Main.executor": "Run",
     "Application.SalesOrder.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Faizin/tugas/Cleancode/ooprinciples",
@@ -58,7 +72,14 @@
       <recent name="C:\Faizin\tugas\Cleancode\ooprinciples\solid\srp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="liskov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="srp" />
@@ -75,8 +96,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.SalesOrder" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727330918564</updated>
       <workItem from="1727330919602" duration="1342000" />
-      <workItem from="1727332344510" duration="3528000" />
+      <workItem from="1727332344510" duration="6771000" />
     </task>
     <task id="LOCAL-00001" summary="srp">
       <option name="closed" value="true" />
@@ -107,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727335927804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="srp">
+      <option name="closed" value="true" />
+      <created>1727335976984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727335976984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
